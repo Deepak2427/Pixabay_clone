@@ -1,8 +1,10 @@
-# Pixabay Clone
+Pixabay Clone
+This project is a clone of the popular royalty-free image-sharing platform, Pixabay, built using modern web technologies. It allows users to browse, search, and download high-quality, free-to-use images.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+Image Search: Search for images based on keywords.
+Categories: Browse images across multiple categories.
+Responsive Design: Optimized for different screen sizes.
+Tech Stack
+Frontend: React, Next.js
+Hosting: Vercel
