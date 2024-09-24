@@ -9,4 +9,5 @@ This project is a clone of the popular royalty-free image-sharing platform, Pixa
 ### Tech Stack
 - **Frontend**: React, Next.js
 - **Hosting**: Vercel
+## Live Demo
 Check out the live site: [Pixabay Clone]
