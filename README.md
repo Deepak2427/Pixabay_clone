@@ -10,4 +10,4 @@ This project is a clone of the popular royalty-free image-sharing platform, Pixa
 - **Frontend**: React, Next.js
 - **Hosting**: Vercel
 ## Live Demo
-Check out the live site: [Pixabay Clone]pixabay-clone-smoky.vercel.app
+Check out the live site: [Pixabay Clone](https://pixabay-clone-smoky.vercel.app/)
